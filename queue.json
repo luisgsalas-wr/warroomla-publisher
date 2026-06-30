@@ -214,5 +214,14 @@
     "image_url": "https://raw.githubusercontent.com/luisgsalas-wr/warroomla-publisher/main/assets/instagram/ig-b7-4/slide-01.jpg",
     "text": "\"El pipeline honesto es incómodo al principio. Después es liberador.\"\n\nLa incomodidad dura una reunión. La claridad dura todo el trimestre.\n\n#VentasB2B #Pipeline #WarRoomLatam",
     "idempotency_key": "b7-4-ig-20260726"
+  },
+  {
+    "id": "test-01-li",
+    "platform": "linkedin",
+    "slug": "b6-1",
+    "scheduled_at": "2026-06-30T10:57:04-05:00",
+    "image_url": "https://raw.githubusercontent.com/luisgsalas-wr/warroomla-publisher/main/assets/linkedin/b6-1/slide-01.jpg",
+    "text": "[TEST] Este es un post de prueba del pipeline de automatización. Si lo ves publicado, el sistema funciona.",
+    "idempotency_key": "test-01-li-20260630"
   }
 ]
